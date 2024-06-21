@@ -1639,3 +1639,13 @@ blockquote::before {
     visibility: visible;
     opacity: 1;
 }
+footer {
+    background-color: burlywood;
+    padding: 10px 0;
+    text-align: center;
+    font-size: 14px;
+    color: #333;
+}
+footer p {
+    margin: 0;
+}
